@@ -1,7 +1,4 @@
 <script>
-  import SearchBar from "./NavBarComponents/SearchBar.svelte";
-  import ProfileLogo from "./NavBarComponents/ProfileLogo.svelte";
-  import CartNavLogo from "./NavBarComponents/CartNavLogo.svelte";
   import BrandLogo from "./NavBarComponents/BrandLogo.svelte";
   import SectionsNav from "./NavBarComponents/Sections/SectionsNav.svelte";
   import DropdownSections from "./NavBarComponents/Sections/DropdownSections.svelte";
